@@ -22,13 +22,13 @@ This system can manage the student's grade information and provides the followin
 
 ## Link
 
-My project can be found in [Here](https://github.com/DonnyScreaM/Dataset-Test).
+My project can be found in [Here](https://github.com/DonnyScreaM/StudentScoreManagementSystem).
 
 
 
 ## Run
 
-You can run this project on [NYU CS Department's web server](https://i6.cims.nyu.edu/~wy828/Dataset-Test/StudentScoreManagementSystem_remote/StudentScoreManagementSystem_remote/flask.cgi).
+You can run this project on [NYU CS Department's web server](https://i6.cims.nyu.edu/~wy828/StudentScoreManagementSystem/flask.cgi).
 
 
 
